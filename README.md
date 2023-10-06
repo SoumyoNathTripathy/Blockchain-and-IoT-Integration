@@ -1,4 +1,4 @@
-# Blockchain for Secure IoT Firmware Updates
+# Blockchain for Secure IoT Firmware
 
 Name: Soumyo Nath Tripathy
 Roll Number: 22
@@ -103,18 +103,4 @@ In the case that the private blockchain is expanded to incorporate multiple manu
 ## Conclusion
 To conclude, we were able to provide an alternative means for remote, secure, and reliable firmware updates. We implemented a functional private blockchain with a single manufacturer node and 2 miner nodes, each responsible for a subset of Raspberry Pi embedded devices. Our method allows manufacturers to direct expensive server costs elsewhere while simultaneously keeping their firmware off the "public internet" and out of third party software repositories, while not compromising the speed at which updates become available after release. Overall, there is still room to expand this platform, such as expanding to multiple manufacturers, moving to a proof of authority model, or the implementation of a subscription-based payment model leveraging the currency oriented environment of Ethereum. The smart contract model gives the manufacturer flexibility in the rules they implement for their system. Further work must still be done to set this platform apart from other software update mechanisms that are largely in use today. 
 
-## References
-1. N. Kshreti, "Can Blockchain Strengthen the Internet of Things?," _IT Professional_, Vol. 19, No. 4, August 2017
-2. S. Huh, S. Cho, and S. Kim, "Managing IoT Devices using Blockchain Platform", _2017 19th International Conference on Advanced Communication Technology (ICACT)_, February 2017
-3. A. Dorri, S. Kanhere, R. Jurdak, and P. Gauravaram, "Blockchain for IoT Security and Privacy: The Case Study of a Smart Home," _2017 IEEE International Conference on Pervasive Computing and Communications Workshops (PerCom Workshops)_, March 2017
-4. A. Dorri, S. Kanhere, and R. Jurdak, "Towards an Optimized BlockChain for IoT," _Proceedings of the Second International Conference on Internet-of-Things Design and Implementation_, April 2017
-5. K. Christidis and M. Devetsikiotis, "Blockchains and Smart Contracts for the Internet of Things," _IEEE Access_, Vol. 4, May 2016
-6. Y. Aung and T. Tantidham, "Review of Ethereum: Smart Home Case Study," _2017 2nd International Conference on Information Technology (INCIT)_, November 2017
-7. J. Benet. _IPFS - Content Addressed, Versioned, P2P File System (DRAFT3)_, accessed on Mar. 17, 2018. [Online]. Available: https://github.com/ipfs/papers/blob/master/ipfs-cap2pfs/ipfs-p2p-file-system.pdf
-8. A. Boudguiga, N. Bouzerna, L. Granboulan, A. Olivereau, F. Quesnel, A. Roger, and R. Sirdey, "Towards Better Availability and Accountability for IoT Updates by Means of a Blockchain," _2017 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)_, April 2017
-9. K. Özyılmaz and A. Yurdakul, "Work-in-Progress: Integrating Low-Power IoT devices to a Blockchain-Based Infrastructure," _2017 International Conference on Embedded Software (EMSOFT)_, October 2017
-10. B. Lee and J. Lee, "Blockchain-based secure firmware update for embedded devices in an Internet of Things environment," _The Journal of Supercomputing_, Vol. 73, No. 3, March 2017, pp. 1152-1167
-11. B. Lee, S. Malik, S. Wi, and J. Lee, "Firmware Verification of Embedded Devices Based on a Blockchain," _International Conference on Heterogeneous Networking for Quality, Reliability, Security and Robustness_, 2016, pp. 52-61
-12. N. Kshetri. (2018). _Using Blockchain to Secure the "Internet of Things"_. [Online]. Available: https://www.scientificamerican.com/article/using-blockchain-to-secure-the-internet-of-things/
-13. J. Rowley. (2017). _How Ethereum became the platform of choice for ICO'd digital assets_. [Online]. Available: https://techcrunch.com/2017/06/08/how-ethereum-became-the-platform-of-choice-for-icod-digital-assets/
-14. G. Wood. _Ethereum: A Secure Decentralised Generalised Transaction Ledger_ accessed on Mar. 20, 2018. [Online]. Available: https://ethereum.github.io/yellowpaper/paper.pdf
+
