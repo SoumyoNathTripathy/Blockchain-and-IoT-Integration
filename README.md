@@ -1,9 +1,9 @@
 # Blockchain for Secure IoT Firmware
 
-Name: Soumyo Nath Tripathy
-Roll Number: 22
-Enrollment Number: 12020002016031
-Stream: CSE(AIML)
+## Name: Soumyo Nath Tripathy
+## Roll Number: 22
+## Enrollment Number: 12020002016031
+## Stream: CSE(AIML)
 
 ## Abstract
 As the Internet of Things (IoT) industry continues to grow, security systems need to develop to ensure that manufacturers can easily and reliably issue security updates to their devices. This project investigates a blockchain-based security update system that allows IoT device manufacturers to manage firmware updates for their devices through the use of smart contracts. IoT clusters can autonomously query the blockchain, and download the newest version of their firmware binaries as soon as they become available. The same smart contracts also manage device identity, and can be easily extended to enforce fine-grained permissions for different types of devices and users.
